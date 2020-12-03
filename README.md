@@ -10,9 +10,7 @@
 |/     \||/     \||/    )_)(_______)|/     \||/     \||/    )_)
 ```
 
-In this version of Hangman the player has to guess letters from a secret word picked randomly from a dictionary, if he guesses incorrectly 6 times the game is
-
-over, and if the player guess every character correctly he wins.
+In this version of Hangman the player has to guess letters from a secret word picked randomly from a dictionary, if he guesses incorrectly 6 times the game is over, and if the player guess every character correctly he wins.
 
 ## Installation
 
