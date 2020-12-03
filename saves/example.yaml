@@ -1,0 +1,30 @@
+--- !ruby/object:Save
+word:
+- h
+- u
+- m
+- a
+- n
+- i
+- z
+- a
+- t
+- i
+- o
+- n
+hints:
+- _
+- _
+- _
+- a
+- _
+- _
+- _
+- a
+- _
+- _
+- _
+- _
+incorrect:
+- b
+lives: 1
