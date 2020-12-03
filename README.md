@@ -40,9 +40,9 @@ Without installing anything!
 
 ## What i learned
 
-  With this project i set out to learn how to work better with Ruby serialization utilizing a YAML model to save game information to be loaded after.
+With this project I set out to learn how to work better with Ruby serialization utilizing a YAML model to save game information to be loaded after.
 
-  I also learned how to better organize my Ruby library and reinforced my OOP knowledge.
+I also learned how to better organize my Ruby library and reinforced my OOP knowledge.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
